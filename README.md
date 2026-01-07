@@ -54,4 +54,5 @@ Most AI models are rigid; a model trained for Basmati will fail on Idli rice.ppt
  **⚖️ License & Contact**
 
 Developed by the VeriGrain Team lead by swathanath  at **SMVITM, Bantakal**.
-For inquiries regarding the **Universal Dynamic Logic** patent or technical collaboration, please contact the project guide and swathanath 
+For inquiries regarding the **Universal Dynamic Logic** patent or technical collaboration, please contact the project guide and VeriGrain Team
+
